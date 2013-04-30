@@ -3,10 +3,10 @@ CSProject
 Project planning: Technical development
 ---------------------------------------
 
-Software development
+*Software development*
 All software development should follow an appropriate methodology, and this will be outlined in the project quality plan.
 
-Requirements
+_Requirements_
 UML (Unified Modelling Language) use cases, scenarios, and class diagrams will be used to express requirement/functional specifications.
 
 Requirements will be baselined through the configuration management process to scope exactly what the software will do within each release - changes to requirements will follow the change control process defined by the project.
@@ -17,7 +17,7 @@ Well-defined requirements will describe the software’s externally-perceived fu
 
 Should rapid development and agile development methods be used, the requirements will be refined through close interaction and cooperation between the programmer and users.
 
-Design
+&Design&
 Design of the logical/functional and physical/internal system will be expressed using UML
 Good internal design will be demonstrated by software code whose overall structure is clear, understandable, easily modifiable, and maintainable; is robust with sufficient error-handling and status logging capability; and works correctly when implemented
 
